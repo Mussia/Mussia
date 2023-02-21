@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @Mussia
-- 👀 I’m interested in Product Management and entrepreneurship
-- 🌱 I’m currently learning to design wireframes
-- 💞️ I’m looking to collaborate on an app that I want to develop
-- 📫 How to reach me jose@mussia.studio
-
+Hi, we are Mussia
+We are a tech startup that is working on designing the first parenting digital tool that can actually parent a child.
+You can reach out to us at jose@mussia.studio
